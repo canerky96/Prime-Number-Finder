@@ -8,7 +8,9 @@ A program that takes a number “n” as input and calculates all the prime numb
 We are using an array to store found prime numbers. So we are initially adding first 4 prime
 numbers (2, 3, 5, and 7) into this array.<br/>
 And we take an input from user by command line argument. Ex:<br/>
->>“./prime_number.o 100”<br/>
+<br/>
+“./prime_number.o 100”<br/>
+<br/>
 After taking input, we are allocating values to threads with chunk size 4.<br/>
 Now threads are starting to check number is prime or not.<br/>
 To do that, thread is starting to divide from first prime number to last prime number in
