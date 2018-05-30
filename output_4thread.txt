@@ -1,0 +1,24 @@
+Thread ID : 0 	 Value : 17
+Thread ID : 0 	 Value : 23
+Thread ID : 0 	 Value : 29
+Thread ID : 2 	 Value : 19
+Thread ID : 0 	 Value : 31
+Thread ID : 0 	 Value : 41
+Thread ID : 0 	 Value : 43
+Thread ID : 0 	 Value : 47
+Thread ID : 0 	 Value : 53
+Thread ID : 0 	 Value : 59
+Thread ID : 0 	 Value : 61
+Thread ID : 0 	 Value : 67
+Thread ID : 3 	 Value : 11
+Thread ID : 2 	 Value : 37
+Thread ID : 3 	 Value : 13
+Thread ID : 3 	 Value : 83
+Thread ID : 3 	 Value : 89
+Thread ID : 3 	 Value : 97
+Thread ID : 0 	 Value : 71
+Thread ID : 2 	 Value : 79
+Thread ID : 0 	 Value : 73
+Inıtial prime number : 2
+Inıtial prime number : 3
+Inıtial prime number : 5
